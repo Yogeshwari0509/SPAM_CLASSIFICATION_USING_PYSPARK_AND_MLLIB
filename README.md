@@ -1,1 +1,3 @@
 # SPAM_CLASSIFICATION_USING_PYSPARK_AND_MLLIB
+
+PySpark and MLlib for spam classification involves leveraging PySpark, a Python API for Apache Spark, along with MLlib, Spark's machine learning library. This combination allows the implementation of scalable machine learning algorithms to classify and detect spam in large datasets. PySpark enables distributed computing, while MLlib offers tools for building, evaluating, and deploying machine learning models. Together, they facilitate the creation of robust spam detection systems by harnessing the power of distributed computing and machine learning algorithms.
